@@ -1,6 +1,5 @@
 # 📊 Sales Performance Dashboard (Excel Automation Project)
-
-**Duration:** Aug ’25 – Sep ’25  
+  
 **Tools Used:** Microsoft Excel (Pivot Tables, Charts, Macros, Data Validation, Conditional Formatting)
 
 ---
