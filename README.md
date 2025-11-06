@@ -58,7 +58,7 @@ The dataset contains **sales records** of executives from **seven regions** — 
 
 ## 📈 Dashboard Highlights
 
-![Sales Dashboard](Dashboard_Screenshot.png)
+![Sales Dashboard](Dashboard_Screenshot.png.png)
 
 ### Key Features:
 - 🏙️ Region-level navigation for Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat.  
